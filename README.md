@@ -1,8 +1,13 @@
 # A propos de moi
 
-J’ai obtenu mon baccalauréat mention bien. En entrant dans le BUT informatique de Limoges j’ai commencé à développer des compétences en informatique. Par exemple désormais je possède des compétences au niveau des logiciels de l’infrastructure technique tel que Unix et Linux. J’ai pu acquérir des compétences en base de données notamment en SQL qui me permettent d’ordonner correctement des données. Je possède aussi des bases en tant que développeur back end avec des bases en langage de programmation tel que le Php ou le Java Script. J’ai pu aussi développer au cours de ma première année d’étude au sein du BUT informatique de Limoges des compétences en Java. Mon parcours m’a permis aussi de développer ma capacité à travailler en équipe du fait que la plupart des projets que j’ai pu mener au cours de ces années d’études étaient des projets de groupe. Je possède aussi des compétences de base en Espagnol ainsi qu’en Anglais. 
+Salut ! Je suis Samuel Pouyade, un passionné d'informatique qui aime transformer des lignes de code en solutions innovantes.
+
+Après avoir décroché mon baccalauréat avec mention bien, je me suis lancé dans l'aventure du BUT informatique à Limoges. Cette expérience m'a ouvert les portes d'un monde fascinant, où j'ai forgé mes compétences en informatique.
+Grâce à ce dernier,  j’ai pu acquérir des compétences en base de données notamment en SQL qui me permettent d’ordonner correctement des données. 
+Je suis aussi capable de développer différentes application via une multitude de langage tel que Php ou Java Script et tant d'autres. 
+Ces compétences ont été mises à l'épreuve dans le cadre de projets de groupe au cours desquels j'ai perfectionné ma collaboration au sein d'équipes dynamiques. 
+Par ailleurs, je possède des compétences linguistiques en Espagnol ainsi qu’en Anglais. 
 Cependant je ne dispose pas seulement des hard skills je possède aussi des soft skills tel que mon adaptabilité, ma capacité à travailler à distance, je suis la plupart du temps aussi très enthousiaste. De plus, faisant partie d’une génération très liée aux smartphones, tablettes, écran et aussi étant étudiant en informatique il m’est très facile de me documenter sur l’informatique et son évolution. Par exemple avec toutes les nouvelles pièces d’ordinateur qui sortent chaque année.
-Toutes ces compétences sont pour moi, des compétences qu’un chef de projet informatique doit impérativement détenir pour qu’il puisse mener à bien les projets auxquels il sera confronté.
 
 # Mon parcours profesionnel
 

@@ -14,3 +14,10 @@ Un autre projet que nous avons mené est un projet en réseau au cours duquel no
 Lors d’un autre projet nous avons dû organiser un week-end d’intégration pour une école d’ingénieurs fictive à Limoges. Nous devions choisir le lieu, organiser les animations, la nourriture, le logement et tout ce qui pourrais nous servir.
 Pendant ma seconde année de BUT informatique j’ai continué à développer mes compétences en développement grâce à différents projets. Par exemple, j’ai eu l’occasion de créer un site web communautaire à l’aide du framework Php et Symfony. 
 Un autre grand projet que je me suis vu attribuer fût le développement d’une application de lancer de rayon plus connu sous le nom de ray tracing. Cette application fût développée à l’aide du langage de programmation C++. Différentes fonctionnalités ont été développées par rapport à cette application tel qu’une ligne de commande qui nous permet de lancer l’application, une autre fonctionnalité était le fait de développer une interface Homme-Machine afin de générer le lancer de rayon développer par rapport aux données qu’aurait entré l’utilisateur.
+
+# Me contacter
+Si vous souhaitez me joindre vous pouvez me contacter par sms ou par appel au numéro suivant : 06 81 99 38 69.  Mais aussi à l’adresse électronique suivante : samuel.pouyade@outlook.fr  
+Je possède aussi un compte LinkedIn sur lequel vous pouvez me joindre. Mon nom d’utilisateur est donc Samuel Pouyade. Vous pouvez trouver mon LinkedIn sinon à l’URL suivante : 
+www.linkedin.com/in/samuel-pouyade-011496229
+Celui-ci me permet aussi de me renseigner sur des personnes ainsi que sur des entreprises.
+

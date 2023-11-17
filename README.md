@@ -16,8 +16,20 @@ L’un des domaines dans lequel j’aimerais bien avoir l’opportunité de trav
 
 # Mes compétences
 
-En tant qu'étudiant en troisième année de BUT informatique, mes compétences s'étendent bien au-delà du développement d'application.
-Je suis tout a fait en capacité de pouvoir travailler dans une équipe informatique, tout en donnant des directions à suivre. Mais aussi de pouvoir communiquer de façon claires avec mes collègues de sorte à réussir le projet qui nous est donné.
+En tant qu'étudiant en troisième année de BUT informatique, mes compétences en développement s'oriente notamment vers le développement back end. Je suis tout à fait en capacité d'utiliser différents frameworks tel que Symfony ou Lavarel. Je suis aussi capable de développer différentes sortes d'application à l'aide de langage de programmation qui sont :
+- Javascript
+- Java
+- Python
+- PHP
+- ...
+
+De plus, je suis tout à fait apte à me servir de base de données tel que :
+- MySQL
+- PostgreSql
+- Cassandra
+- MongoDB
+
+Mes compétences s'étendent bien au-delà du développement d'application. Je suis tout a fait en capacité de pouvoir travailler dans une équipe informatique, tout en donnant des directions à suivre. Mais aussi de pouvoir communiquer de façon claires avec mes collègues de sorte à réussir le projet qui nous est donné.
 
 # Les projets auxquels j’ai pris part
 

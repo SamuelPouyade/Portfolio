@@ -63,6 +63,10 @@ Un autre grand projet que je me suis vu attribuer fût le développement d’une
 
 J'ai aussi eu l’occasion de créer un site web communautaire à l’aide du framework Symfony. 
 
+J'ai pu aussi créer un projet dont l'objectif était de me servir de l'API que propose Spotify afin de réaliser une application sur le thème de ce distributeur de musique. Je me suis donc servi de l'API et du langage de programmation Xamarin. Ce projet m'a alors permis de faire mes premiers sur le développement d'applications mobiles.
+
+Deux autres projets avec symfony et Laravel.
+
 # Me contacter
 Si vous souhaitez me joindre vous pouvez me contacter par sms ou par appel au numéro suivant : 06 81 99 38 69.  Mais aussi à l’adresse électronique suivante : samuel.pouyade@outlook.fr  
 Je possède aussi un compte LinkedIn sur lequel vous pouvez me joindre. Mon nom d’utilisateur est donc Samuel Pouyade. Vous pouvez trouver mon LinkedIn sinon à l’URL suivante : 

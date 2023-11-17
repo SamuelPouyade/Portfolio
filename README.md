@@ -7,7 +7,6 @@ Grâce à ce dernier,  j’ai pu acquérir des compétences en base de données 
 Je suis aussi capable de développer différentes application via une multitude de langage tel que Php ou Java Script et tant d'autres. 
 Ces compétences ont été mises à l'épreuve dans le cadre de projets de groupe au cours desquels j'ai perfectionné ma collaboration au sein d'équipes dynamiques. 
 Par ailleurs, je possède des compétences linguistiques en Espagnol ainsi qu’en Anglais. 
-Cependant je ne dispose pas seulement des hard skills je possède aussi des soft skills tel que mon adaptabilité, ma capacité à travailler à distance, je suis la plupart du temps aussi très enthousiaste. De plus, faisant partie d’une génération très liée aux smartphones, tablettes, écran et aussi étant étudiant en informatique il m’est très facile de me documenter sur l’informatique et son évolution. Par exemple avec toutes les nouvelles pièces d’ordinateur qui sortent chaque année.
 
 # Mon parcours profesionnel
 
@@ -29,18 +28,40 @@ De plus, je suis tout à fait apte à me servir de base de données tel que :
 - Cassandra
 - MongoDB
 
-Mes compétences s'étendent bien au-delà du développement d'application. Je suis tout a fait en capacité de pouvoir travailler dans une équipe informatique, tout en donnant des directions à suivre. Mais aussi de pouvoir communiquer de façon claires avec mes collègues de sorte à réussir le projet qui nous est donné.
+Mes compétences s'étendent bien au-delà du développement d'application. Je suis tout a fait en capacité de pouvoir travailler dans une équipe informatique, tout en donnant des directions à suivre. Mais aussi de pouvoir communiquer de façon claires avec mes collègues de sorte à réussir le projet qui nous est donné. Mon adaptabilité aux différents projets que l'on a pu mener est l'une de mes compétences la plus importante.
+
+Il me semble important aussi d'indiquer que je continue à développer mes compétences pour rester à jour avec les dernières technologies et méthodologies de développement.
 
 # Les projets auxquels j’ai pris part
 
-Au cours de mes deux années d’études j’ai eu la chance de créer une application regroupant quatre jeux différents qui sont les suivants : un morpion, un puissance 4, un jeu de devinette, un jeu d’allumette. Cette application permet de stocker les scores de chaque joueur et m’a permis de mettre à profit mes compétences en algorithmie et en python. 
-J’ai aussi appris à gérer une base de données en SQL, celle-ci contenait seize milles jeux vidéo différents, j’ai pu alors mettre à profit mes compétences en SQL ainsi que faire de nouvelles découvertes. 
-J’ai par ailleurs, pris part à un projet lors de ma première année en bachelor universitaire de technologie informatique qui consistait à nous permettre d’acquérir des compétences à identifier les différents composants d’un système numérique, utiliser les fonctionnalités de base d’un système multitâches et multiutilisateur ainsi qu’installer et configurer un système d’exploitation et des outils de développement.
-Lors de mon second semestre de ma première année en BUT informatique j’ai pu réaliser d’autres projet tel que la création d’une application reprenant les principes du jeu Latice. J’ai dû développer ce projet à l’aide de mon trinôme avec le langage de programmation Java et Java FX. Nous avons dû aussi faire attention à la qualité de notre code. 
-Un autre projet que nous avons mené est un projet en réseau au cours duquel nous avons dû configurer le réseau d’une entreprise afin que celle-ci puisse avoir deux zones, une pour ses consultants et une autre pour les clients. Des contraintes nous ont été attribuées comme la plage privée, la répartition des machines par zone client, l’adressage de certaines machines. 
+Durant ces trois années d'études, j'ai pu menée une importante diversité de projet qui m'ont permis de mettre en exergue mes compétences. 
+
+Notamment dés la première année j'ai apprendre les bases du code grâce à une application regroupant quatres jeux qui sont les suivants : 
+- Un morpion
+- Un puissance 4
+- Un jeu de devinette
+- Un jeu d'allumette
+
+Cette application fût codée avec le langage de programmation Python. Elle me permet de jouer soit contre un ordinateur, soit deux ordinateurs entre eux ou bien deux joueurs. De plus, ce jeu stock les différents scores afin de faire un classement entre les joueurs.
+Ce premier projet important m'a permis d'acquérir de solide base dans ce qu'est le développement informatique.
+
+Un second projet que j'ai pu mener, est celui de la gestion d'une base de données SQL. Nous devions au cours de ce projet analyser une base de données SQL qui contenait pas moins de 16 000 jeux différents avec tout un tas de données à propos d'eux. Ce projet m'a alors permis de mettre en exergue mes compétences en requêtage d'une base de données de type SQL.
+
+Un autre projet auquel j'ai pu prendre est un projet qui consistait à nous permettre d’acquérir des compétences à identifier les différents composants d’un système numérique, utiliser les fonctionnalités de base d’un système multitâches et multiutilisateur ainsi qu’installer et configurer un système d’exploitation et des outils de développement.
+
+Encore lors de ma première année de BUT informatique. J'ai développé à l'aide de deux de mes camarades une application reprenant les principes du jeu Latice. J’ai dû développer ce projet à l’aide de mon trinôme avec le langage de programmation Java et Java FX. Ce projet m'a donc permis d'améliorer mes compétences en développement informatique notamment au vu de qualité de code qui est l'une des composantes les plus importantes pour moi.
+
+Cependant, nous n'avons pas eu que des projets qui sont des projets de développements informatique.
+
+Un autre projet que j'ai pu mené est un projet en réseau au cours duquel nous avons dû configurer le réseau d’une entreprise fictive afin que celle-ci puisse avoir deux zones, une pour ses consultants et une autre pour les clients. Des contraintes nous ont été attribuées comme la plage privée, la répartition des machines par zone client, l’adressage de certaines machines.
+
 Lors d’un autre projet nous avons dû organiser un week-end d’intégration pour une école d’ingénieurs fictive à Limoges. Nous devions choisir le lieu, organiser les animations, la nourriture, le logement et tout ce qui pourrais nous servir.
-Pendant ma seconde année de BUT informatique j’ai continué à développer mes compétences en développement grâce à différents projets. Par exemple, j’ai eu l’occasion de créer un site web communautaire à l’aide du framework Php et Symfony. 
+
+Lors de ma seconde année j'ai eu l'opportunité de développer d'autres projets importants.
+
 Un autre grand projet que je me suis vu attribuer fût le développement d’une application de lancer de rayon plus connu sous le nom de ray tracing. Cette application fût développée à l’aide du langage de programmation C++. Différentes fonctionnalités ont été développées par rapport à cette application tel qu’une ligne de commande qui nous permet de lancer l’application, une autre fonctionnalité était le fait de développer une interface Homme-Machine afin de générer le lancer de rayon développer par rapport aux données qu’aurait entré l’utilisateur.
+
+J'ai aussi eu l’occasion de créer un site web communautaire à l’aide du framework Symfony. 
 
 # Me contacter
 Si vous souhaitez me joindre vous pouvez me contacter par sms ou par appel au numéro suivant : 06 81 99 38 69.  Mais aussi à l’adresse électronique suivante : samuel.pouyade@outlook.fr  

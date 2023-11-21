@@ -55,32 +55,41 @@ J'ai pu également participé à un projet de groupe ou nous devions présenter 
 Ce projet qu'étais la SAE 1.06 était un projet ou nous devions interviewer un professionnel de l'informatique sur son métier. Grâce à ce projet j'ai pu développer une meilleure capacité à communiquer et travailler avec mon équipe de travail.
 
 ### SAE 2.01 et 2.02
-Latice 
+
+Pour ce projet qu'était le regroupement de la SAE 2.01 et la SAE 2.02, je devais dans un groupe de trois développer le jeu Latice. Ce jeu fût développer via les langages de programmation Java et JavaFX. L'objectif de la première partie était de développer le jeu fonctionnel en joueur contre joueur et joueur contre ordinateur et de stocker les scores. La seconde partie avait elle pour objectif de rendre notre code plus propre c'est-à-dire plus performant et compréhensible par toute personnes arrivant au cours du projet. Pour cela, nous devions notamment respecter les principes SOLID et les conventions de nommages. Ce projet m'a permis d'en apprendre plus à propos de nouveau langages de programmation tel que Java, ainsi que de pouvoir rendre un code fonctionnel et performant.
+
 
 ### SAE 2.03
-Réseaux communiquant
+
+Ce projet qu'était la SAE 2.03 était un projet en réseau au cours duquel nous avons dû configurer le réseau d’une entreprise fictive afin que celle-ci puisse avoir deux zones, une pour ses consultants et une autre pour les clients. Des contraintes nous ont été attribuées comme la plage privée, la répartition des machines par zone client, l’adressage de certaines machines. Ce projet m'a alors permis de poser d'importantes base en en matière de réseau.
 
 ### SAE 2.04
 
-SQL
+Dans ce projet nous devions requêtes différentes bases de données pour faire l'analyse de certaines des données. Cela nous a permis de développer de manière plus approfondie nos connaissances en requêtage du fait que la difficulté des différents requêtages n'était pas les mêmes.
 
 ### SAE 2.05
 
-Week-end d'intégration fictif
+Pour ce projet, nous étions un groupe de quatre personnes et nous devions organiser un week-end d'intégration pour une école fictive. Nous devions gérer l'ensemble des événements ainsi que le logements des étudiants et le budget globale. Cela m'a alors permis de consolider mes compétences dans la gestion de projet et le travail en groupe.
 
 ### SAE 2.06
 
-Forum
+Le dernier projet que j'ai pu mener au cours de ma première année fût l'organisation d'un forum avec des écoles en informatique. Cela m'a permis de consolider mes compétences en communication.
 
-## SAE 3.01A
+## Seconde année
 
-Ray-tracing
+### SAE 3.01A
+
+Un autre grand projet que je me suis vu attribuer fût le développement d’une application de lancer de rayon plus connu sous le nom de ray tracing. Cette application fût développée à l’aide du langage de programmation C++. Différentes fonctionnalités ont été développées par rapport à cette application tel qu’une ligne de commande qui nous permet de lancer l’application, une autre fonctionnalité était le fait de développer une interface Homme-Machine afin de générer le lancer de rayon développer par rapport aux données qu’aurait entré l’utilisateur.
 
 ### SAE 3.01B
 
 Réseau
 
 ### STAGE
+
+## Troisième année
+
+### SAE 5
 
 
 ### ALTERNANCE
@@ -89,7 +98,7 @@ Encore lors de ma première année de BUT informatique. J'ai développé à l'ai
 
 Cependant, nous n'avons pas eu que des projets qui sont des projets de développements informatique.
 
-Un autre projet que j'ai pu mené est un projet en réseau au cours duquel nous avons dû configurer le réseau d’une entreprise fictive afin que celle-ci puisse avoir deux zones, une pour ses consultants et une autre pour les clients. Des contraintes nous ont été attribuées comme la plage privée, la répartition des machines par zone client, l’adressage de certaines machines.
+
 
 Lors d’un autre projet nous avons dû organiser un week-end d’intégration pour une école d’ingénieurs fictive à Limoges. Nous devions choisir le lieu, organiser les animations, la nourriture, le logement et tout ce qui pourrais nous servir.
 
@@ -97,7 +106,7 @@ Lors d’un autre projet nous avons dû organiser un week-end d’intégration p
 
 Lors de ma seconde année j'ai eu l'opportunité de développer d'autres projets importants.
 
-Un autre grand projet que je me suis vu attribuer fût le développement d’une application de lancer de rayon plus connu sous le nom de ray tracing. Cette application fût développée à l’aide du langage de programmation C++. Différentes fonctionnalités ont été développées par rapport à cette application tel qu’une ligne de commande qui nous permet de lancer l’application, une autre fonctionnalité était le fait de développer une interface Homme-Machine afin de générer le lancer de rayon développer par rapport aux données qu’aurait entré l’utilisateur.
+
 
 J'ai aussi eu l’occasion de créer un site web communautaire à l’aide du framework Symfony. 
 

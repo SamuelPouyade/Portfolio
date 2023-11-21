@@ -83,7 +83,11 @@ Un autre grand projet que je me suis vu attribuer fût le développement d’une
 
 ### SAE 3.01B
 
-Réseau
+Pour ce projet nous devions avec le même groupe que la SAE 3.01A configurer un réseau pour une entreprise fictive. Nous devions configurer notamment des règles de pare feu en ne laissant passer que des connexions spécifiques. Ce projet m'a alors permis de mettre en exergue mes compétences en matière de réseaux.
+
+### Site web communautaire
+
+Un autre projet que j'ai pu mener était le développement d'un site web communautaire.
 
 ### STAGE
 
@@ -94,17 +98,6 @@ Réseau
 
 ### ALTERNANCE
 
-Encore lors de ma première année de BUT informatique. J'ai développé à l'aide de deux de mes camarades une application reprenant les principes du jeu Latice. J’ai dû développer ce projet à l’aide de mon trinôme avec le langage de programmation Java et Java FX. Ce projet m'a donc permis d'améliorer mes compétences en développement informatique notamment au vu de qualité de code qui est l'une des composantes les plus importantes pour moi.
-
-Cependant, nous n'avons pas eu que des projets qui sont des projets de développements informatique.
-
-
-
-Lors d’un autre projet nous avons dû organiser un week-end d’intégration pour une école d’ingénieurs fictive à Limoges. Nous devions choisir le lieu, organiser les animations, la nourriture, le logement et tout ce qui pourrais nous servir.
-
-
-
-Lors de ma seconde année j'ai eu l'opportunité de développer d'autres projets importants.
 
 
 

@@ -1,3 +1,10 @@
+1. [À propos de moi](#a-propos-de-moi)
+2. [Mon parcours professionnel](#mon-parcours-professionnel)
+3. [Mes compétences](#mes-competences)
+4. [Les projets auxquels j’ai pris part](#les-projets-auxquels-jai-pris-part)
+5. [Me contacter](#me-contacter)
+
+
 # A propos de moi
 
 Salut ! Je suis Samuel Pouyade, un passionné d'informatique qui aime transformer des lignes de code en solutions innovantes.
@@ -10,8 +17,6 @@ Par ailleurs, je possède des compétences linguistiques en Espagnol ainsi qu’
 
 # Mon parcours profesionnel
 
-J’ai pour projet de devenir chef de projet en informatique dans un domaine tel que la cybersécurité. Etant issu d’un bac général avec les options mathématiques, mathématiques expertes, physique-chimie ainsi que sciences économiques et sociales j’ai opté pour le Bachelor Universitaire de Technologie Informatique de Limoges car celui-ci me donnait l’occasion d’avoir un avis concret sur le monde de l’informatique. Mais aussi parce qu’il a pu me permettre d’apprendre les bases informatiques nécessaires à ma poursuite d’études. Après avoir obtenu mon diplôme je souhaiterais me diriger vers un master qui m’offrirait la possibilité d’obtenir les bases nécessaires pour diriger une équipe informatique ou bien intégrer une école d’ingénieur. 
-L’un des domaines dans lequel j’aimerais bien avoir l’opportunité de travailler sont les entreprises du monde de l’aéronautique car c’est un environnement de travail où je pense pouvoir m’épanouir pleinement. Cependant les entreprises du monde de l’aéronautique ne sont pas les seules qui m’intéressent. Travailler dans un hôpital ou dans une entreprise du monde médical m’intéresserait beaucoup car cela donnera du sens à ma vie, je me sentirai utile à la société.
 
 # Mes compétences
 

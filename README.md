@@ -3,8 +3,9 @@
 1. [À propos de moi](#a-propos-de-moi)
 2. [Mon parcours professionnel](#mon-parcours-professionnel)
 3. [Les projets auxquels j’ai pris part](#les-projets-auxquels-jai-pris-part)
-4. [Mes compétences](#mes-competences)
-5. [Me contacter](#me-contacter)
+4. [Mes compétences](#mes-compétences)
+5. [Fiches SAE](#fiches-saes)
+6. [Me contacter](#me-contacter)
 
 
 # A propos de moi
@@ -17,7 +18,7 @@ Je suis aussi capable de développer différentes application via une multitude 
 Ces compétences ont été mises à l'épreuve dans le cadre de projets de groupe au cours desquels j'ai perfectionné ma collaboration au sein d'équipes dynamiques. 
 Par ailleurs, je possède des compétences linguistiques en Espagnol ainsi qu’en Anglais. 
 
-# Mon parcours profesionnel
+# Mon parcours professionnel
 
 # Les projets auxquels j’ai pris part
 
@@ -129,6 +130,9 @@ Mes compétences s'étendent bien au-delà du développement d'application. Je s
 
 Il me semble important aussi d'indiquer que je continue à développer mes compétences pour rester à jour avec les dernières technologies et méthodologies de développement.
 
+# Fiches saes
+
+Il faut savoir lors de la réalisation de mon BUT informatique, j'ai pu réaliser différents projets comme vous avez pu lire. Ces projets qui fût menés dans le cadre du BUT étaient accompagnés de fiche attestant de notre niveau de compétences. Ils nous ont aussi permis de nous situer sur notre niveau, mais aussi de savoir les éventuels points à améliorer. Vous les retrouverez triés par années sur le lien suivant : https://github.com/SamuelPouyade/Portfolio/tree/main/Fiches_SAE_BUT
 
 # Me contacter
 Si vous souhaitez me joindre vous pouvez me contacter par sms ou par appel au numéro suivant : 06 81 99 38 69.  Mais aussi à l’adresse électronique suivante : samuel.pouyade@outlook.fr  

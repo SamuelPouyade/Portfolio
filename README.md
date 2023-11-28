@@ -69,27 +69,21 @@ Pour terminer différents projets ont aussi été menés en SQL afin de s'approp
 
 ## Seconde année
 
-### SAE 3.01A
+Lors de ma seconde année, nous avons eu l'opportunité de mener des projets plus complexes et exploitants de plus en plus de compétences.
 
-Un autre grand projet que je me suis vu attribuer fût le développement d’une application de lancer de rayon plus connu sous le nom de ray tracing. Cette application fût développée à l’aide du langage de programmation C++. Différentes fonctionnalités ont été développées par rapport à cette application tel qu’une ligne de commande qui nous permet de lancer l’application, une autre fonctionnalité était le fait de développer une interface Homme-Machine afin de générer le lancer de rayon développer par rapport aux données qu’aurait entré l’utilisateur.
+L'un des projets les plus importants à mes yeux et qui montre une montée en compétence fût le développement d’une application de lancer de rayon plus connu sous le nom de ray tracing. Cette application fût développée à l’aide du langage de programmation C++. Différentes fonctionnalités ont été développées par rapport à cette application tel qu’une ligne de commande qui nous permet de lancer l’application, une autre fonctionnalité était le fait de développer une interface Homme-Machine afin de générer le lancer de rayon développer par rapport aux données qu’aurait entré l’utilisateur.
 
-### SAE 3.01B
-
-Pour ce projet nous devions avec le même groupe que la SAE 3.01A configurer un réseau pour une entreprise fictive. Nous devions configurer notamment des règles de pare feu en ne laissant passer que des connexions spécifiques. Ce projet m'a alors permis de mettre en exergue mes compétences en matière de réseaux.
-
-### Site web communautaire
-
-Un autre projet que j'ai pu mener était le développement d'un site web communautaire.
-
-### STAGE
+Ce qui m'a aussi permis de développer plus de compétences fût mon stage.
+Il faut savoir que j'ai eu l'opportunité de réaliser un stage au sein du Groupe Legrand à Limoges. Le sujet surlequel j'ai pu travailler était le développement d'une application web. J'ai pu utiliser différentes technologies tel que node, javascript, ssms, postman ainsi que jest. Ce stage fût fort enrichissant d'une part grâce aux différentes personnes que j'ai pu cotoyer. Mais aussi au vu de la satisfaction de mon maitre de stage qui fût très content de mon travail et qui m'a permis de travail pendant mes vacances d'été à Legrand ainsi que d'effectuer mon alternance de troisième année aussi en sa compagnie.
 
 ## Troisième année
 
 ### SAE 5
-
+Projet avec legrand, 
 
 ### ALTERNANCE
 
+Toujours au sein de legrand/
 
 
 
